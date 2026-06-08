@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "اسم کشورمون چیه",
+      option1: "ایران",
+      option2: "ایتالیا",
+      option3: "نیجریه",
+      option4: "واتیکان",
+      ans: 1,
+    },
+    {
+      question: "جواب 2+2",
+      option1: "2",
+      option2: "1",
+      option3: "3",
+      option4: "4",
+      ans: 4,
+    },
+    {
+      question: "در چه سیاره ای ما قرار زندگی میکنیم",
+      option1: "زمین",
+      option2: "مشتری",
+      option3: "مریخ",
+      option4: "خورشید",
+      ans: 1,
+    },
+    {
+      question: "آسمان چه رنگی هست",
+      option1: "صورتی",
+      option2: "زرد",
+      option3: "آبی",
+      option4: "قرمز",
+      ans: 3,
+    },
+    {
+      question: "بزرگ ترین کشور زمین اسمش چیه",
+      option1: "ایران",
+      option2: "روسیه",
+      option3: "آمریکا",
+      option4: "واتیکان",
+      ans: 2,
+    },
+  ];
